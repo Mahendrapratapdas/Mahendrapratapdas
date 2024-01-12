@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahendra Pratap Das</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-<img align="right" alt="coding" width="400" src="[https://miro.medium.com/v2/resize:fit:678/0*kxPYwfJmkXZ3iCWy.png](https://www.infomazeelite.com/wp-content/uploads/2022/12/MERN-Stack-Development.png)">
+<img align="right" alt="coding" width="400" src="https://www.infomazeelite.com/wp-content/uploads/2022/12/MERN-Stack-Development.png">
 
 - 🔭 I’m currently working on **Python**
 
