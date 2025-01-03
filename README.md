@@ -3,13 +3,13 @@
 
 <img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2021/09/benefits-of-mern-stack.png">
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Reactjs. && Nodejs. && Python**
 
 - 💬 Ask me about **Python && Web Technology**
 
-- 📫 How to reach me **mahendrapratapdas7@gmail.com**
+- 📫 How to reach me **mahendrapratapd7@gmail.com**
 
 - ⚡ Fun fact **I once hiked to the top of a volcano and roasted marshmallows over the lava's heat! 🌋🔥 #AdventureSeeker**
 
